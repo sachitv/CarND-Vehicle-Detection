@@ -2,3 +2,4 @@ vehicles/*
 non-vehicles/*
 **.DS_Store
 output_images/*
+input_frames/*
