@@ -148,8 +148,11 @@ Here is an example [link][attempt1] to my earlier attempt.<br>
 
 As you can see, compared with my final result there are several improvements in terms of false positives. Not only that, it also ran much faster.<br>
 
-Some Improvements I would like to make are as follows
-1. Use better training data
-2. Try different models ( Bayesian, Tree and Neural Network classifiers )
-3. Use state information to stabilize the detection and avoid false positives
-4. For performance, I could sample the image at a lower resolution
+Although my current model is pretty good, it is not foolproof and is likely to fail in a number of occassions, especially when road colours are changing.
+
+Some Improvements I would like to make are as follows<br>
+1. Use better training data<br>
+2. Try different models ( Bayesian, Tree and Neural Network classifiers )<br>
+3. Use state information to stabilize the detection and avoid false positives<br>
+4. For performance, I could sample the image at a lower resolution<br>
+
